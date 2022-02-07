@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 0.0.1
+Summary: This packet sorts you files by extesions in specifed directory
+Home-page: https://github.com/AntonSilS/goit_python_2
+Author: Silchenko Anton
+Author-email: example@example.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+
+UNKNOWN
+
